@@ -12,7 +12,7 @@ Raw data moves through a **Medallion architecture (Bronze → Silver → Gold)**
 - **Revenue exposure:** late deliveries put **$19M of $33M total sales** at risk.
 - **Second Class shipping is the main offender.** On-time rate is only **~20.27%**, versus **60.21%** for Standard Class and **52.17%** for Same Day.
 - **Regional concentration:** Western Europe and Central America carry the most delayed-order revenue, at over **$2.0M** and **$1.6M** respectively.
-
+![Power BI Dashboard](https://github.com/sifatsami/supply-chain-otif-analytics/blob/main/PowerBI.png?raw=true)
 ---
 
 ## Architecture
