@@ -1,0 +1,9 @@
+# Data binaries & cache
+data/
+*.parquet
+*.csv
+__pycache__/
+*.pyc
+venv/
+.env
+
